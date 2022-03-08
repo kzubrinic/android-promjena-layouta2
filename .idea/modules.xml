@@ -2,10 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/PromjenaLayouta2.iml" filepath="$PROJECT_DIR$/PromjenaLayouta2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/android-promjena-layouta2.iml" filepath="$PROJECT_DIR$/android-promjena-layouta2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/android-promjena-layouta2-app.iml" filepath="$PROJECT_DIR$/app/android-promjena-layouta2-app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Promjena_layouta_2.iml" filepath="$PROJECT_DIR$/.idea/modules/Promjena_layouta_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/Promjena_layouta_2.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/Promjena_layouta_2.app.iml" />
     </modules>
   </component>
 </project>
